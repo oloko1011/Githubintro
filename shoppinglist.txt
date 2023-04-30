@@ -5,3 +5,4 @@ Shopping List:
  Banana
  Cherries
  Carrots
+ Cereals
